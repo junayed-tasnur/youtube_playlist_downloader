@@ -16,8 +16,8 @@ A command-line tool to download YouTube playlists. It allows you to specify the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/youtube-playlist-downloader-cli.git
-   cd youtube-playlist-downloader-cli
+   git clone https://github.com/he-is-talha/youtube_playlist_downloader.git
+   cd youtube_playlist_downloader
    ```
 
 2. Install dependencies:
